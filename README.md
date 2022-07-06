@@ -1,5 +1,6 @@
 # Clustering with KMeans, Elbow Method, PCA, and Agglomerative Clustering
 Dataset: Stock price  
+
 Clustering ini menggunakan metode-metode sebagai berikut: KMeans, Elbow Method, PCA, dan Agglomerative Clustering. Langkah-langkah yang dilakukan dalam analisis data ini adalah sebagai berikut:  
 1. Importing Libraries  
 Yaitu untuk mengimpor library-library yang dibutuhkan dalam program ini.  
